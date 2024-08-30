@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SUV archivos - Grupo Automotríz</title>
+	<atom:link href="/autos/suv-citroen/feed/" rel="self" type="application/rss+xml" />
+	<link>/autos/suv-citroen/</link>
+	<description>Grupo Automotríz</description>
+	<lastBuildDate>Wed, 03 Jul 2024 20:12:50 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/03/cropped-logoCentral-32x32.png</url>
+	<title>SUV archivos - Grupo Automotríz</title>
+	<link>/autos/suv-citroen/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>C5</title>
+		<link>/autos-nuevos/c5/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 04:22:06 +0000</pubDate>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5864</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>C4</title>
+		<link>/autos-nuevos/c4/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 04:13:14 +0000</pubDate>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5853</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>C3</title>
+		<link>/autos-nuevos/c3/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 03:59:10 +0000</pubDate>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5843</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

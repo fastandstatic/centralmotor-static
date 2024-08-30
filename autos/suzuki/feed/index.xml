@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Suzuki archivos - Grupo Automotríz</title>
+	<atom:link href="/autos/suzuki/feed/" rel="self" type="application/rss+xml" />
+	<link>/autos/suzuki/</link>
+	<description>Grupo Automotríz</description>
+	<lastBuildDate>Mon, 22 Jul 2024 14:48:27 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/03/cropped-logoCentral-32x32.png</url>
+	<title>Suzuki archivos - Grupo Automotríz</title>
+	<link>/autos/suzuki/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>S-cross</title>
+		<link>/autos-nuevos/s-cross-4x4/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 05:11:24 +0000</pubDate>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5918</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fronx Híbrida</title>
+		<link>/autos-nuevos/fronx/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 05:03:24 +0000</pubDate>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5908</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Jimny 5 Puertas</title>
+		<link>/autos-nuevos/jimny-5-puertas/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 04:56:34 +0000</pubDate>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5898</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Baleno Cross</title>
+		<link>/autos-nuevos/baleno-cross/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 04:48:53 +0000</pubDate>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5890</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Vitara</title>
+		<link>/autos-nuevos/suzuki-vitara/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Tue, 09 Apr 2024 21:14:26 +0000</pubDate>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=3531</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
