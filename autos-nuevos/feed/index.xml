@@ -12,13 +12,13 @@
 	<atom:link href="/autos-nuevos/feed/" rel="self" type="application/rss+xml" />
 	<link>/autos-nuevos/</link>
 	<description>Grupo Automotríz</description>
-	<lastBuildDate>Mon, 22 Jul 2024 14:39:10 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Sep 2024 14:41:59 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/03/cropped-logoCentral-32x32.png</url>
@@ -28,20 +28,6 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Kona Gasolina</title>
-		<link>/autos-nuevos/kona-gasolina/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 06 Jun 2024 21:03:05 +0000</pubDate>
-				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=10616</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Tucson</title>
 		<link>/autos-nuevos/tucson/</link>
 		
@@ -160,6 +146,20 @@
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 25 Apr 2024 04:48:53 +0000</pubDate>
 				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5890</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>C5</title>
+		<link>/autos-nuevos/c5/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 04:22:06 +0000</pubDate>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5864</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

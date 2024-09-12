@@ -72,10 +72,6 @@
 		<lastmod>2024-05-10T19:53:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/autos-hyundai/</loc>
-		<lastmod>2024-05-20T20:19:25+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/autos-suzuki/</loc>
 		<lastmod>2024-05-20T20:27:14+00:00</lastmod>
 	</url>
@@ -144,6 +140,13 @@
 		<lastmod>2024-08-28T15:25:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/controlar-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-hyundai/</loc>
+		<lastmod>2024-09-11T20:24:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/PngItem_1504515.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

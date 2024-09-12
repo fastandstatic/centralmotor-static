@@ -12,13 +12,13 @@
 	<atom:link href="/autos/suv-citroen/feed/" rel="self" type="application/rss+xml" />
 	<link>/autos/suv-citroen/</link>
 	<description>Grupo Automotríz</description>
-	<lastBuildDate>Wed, 03 Jul 2024 20:12:50 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Sep 2024 20:10:42 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/03/cropped-logoCentral-32x32.png</url>

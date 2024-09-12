@@ -6,7 +6,7 @@
 	</url>
 	<url>
 		<loc>/autos/citroen/</loc>
-		<lastmod>2024-07-03T20:12:50+00:00</lastmod>
+		<lastmod>2024-09-11T20:10:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/autos/dfsk/</loc>
@@ -36,12 +36,6 @@
 		<loc>/autos/productivo-hino/</loc>
 	</url>
 	<url>
-		<loc>/autos/sedan-suzuki/</loc>
-	</url>
-	<url>
-		<loc>/autos/sedan-honda/</loc>
-	</url>
-	<url>
 		<loc>/autos/sedan-hyundai-2/</loc>
 		<lastmod>2024-06-12T22:08:40+00:00</lastmod>
 	</url>
@@ -52,7 +46,23 @@
 		<loc>/autos/sedan-subaru/</loc>
 	</url>
 	<url>
+		<loc>/autos/sedan-suzuki/</loc>
+	</url>
+	<url>
+		<loc>/autos/sedan-honda/</loc>
+	</url>
+	<url>
 		<loc>/autos/subaru/</loc>
+	</url>
+	<url>
+		<loc>/autos/suv-subaru/</loc>
+	</url>
+	<url>
+		<loc>/autos/suv-honda/</loc>
+	</url>
+	<url>
+		<loc>/autos/suv-citroen/</loc>
+		<lastmod>2024-09-11T20:10:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/autos/suv/</loc>
@@ -64,16 +74,6 @@
 	</url>
 	<url>
 		<loc>/autos/suv-dfsk/</loc>
-	</url>
-	<url>
-		<loc>/autos/suv-subaru/</loc>
-	</url>
-	<url>
-		<loc>/autos/suv-honda/</loc>
-	</url>
-	<url>
-		<loc>/autos/suv-citroen/</loc>
-		<lastmod>2024-07-03T20:12:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/autos/suzuki/</loc>

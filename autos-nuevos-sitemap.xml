@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/autos-nuevos/</loc>
-		<lastmod>2024-07-23T14:56:07+00:00</lastmod>
+		<lastmod>2024-09-12T14:41:59+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/autos-nuevos/grand-vitara-hibrida/</loc>
@@ -33,20 +33,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/c3/</loc>
-		<lastmod>2024-06-12T22:07:15+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/C33ciroen_Autonorte_New_0112.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/swift-hibrido/</loc>
-		<lastmod>2024-06-12T22:07:36+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Swift-Hibrido_Autonorte_New_013.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/hb20s-sedan/</loc>
 		<lastmod>2024-06-12T22:08:34+00:00</lastmod>
 		<image:image>
@@ -65,13 +51,6 @@
 		<lastmod>2024-06-12T22:09:51+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/Staria_Autonorte.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/kona-gasolina/</loc>
-		<lastmod>2024-06-26T19:49:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/KONA-GASOLINA-MINIATURA.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -124,13 +103,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/tucson/</loc>
-		<lastmod>2024-07-22T14:39:10+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Tucson_New_Autonorte_New_0114.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/suzuki-vitara/</loc>
 		<lastmod>2024-07-22T14:48:27+00:00</lastmod>
 		<image:image>
@@ -142,6 +114,27 @@
 		<lastmod>2024-07-23T14:56:07+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/palisade-exterior.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/c3/</loc>
+		<lastmod>2024-09-11T20:10:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/C33ciroen_Autonorte_New_0112.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/swift-hibrido/</loc>
+		<lastmod>2024-09-11T20:20:58+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Swift-Hibrido_Autonorte_New_013.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/tucson/</loc>
+		<lastmod>2024-09-12T14:41:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Tucson_New_Autonorte_New_0114.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
