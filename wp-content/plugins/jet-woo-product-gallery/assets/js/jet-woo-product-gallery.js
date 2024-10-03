@@ -23,14 +23,16 @@
 				self.elementorFrontendInit( $( content ) );
 			} );
 
-			if ( $( '.woocommerce div.product' ).hasClass( 'product-type-variable' ) ) {
-				$(document)
-					.on( 'show_variation', function ( form, variation ) {
-						self.showVariationImage( variation );
-					} )
-					.on( 'reset_image', function ( form, variation ) {
-						self.showVariationImage( variation );
-					} );
+			for ( const productType of jetWooProductGalleryData.product_types ) {
+				if ( $( '.woocommerce div.product' ).hasClass( 'product-type-' + productType ) ) {
+					$(document)
+						.on( 'show_variation', function ( form, variation ) {
+							self.showVariationImage( variation );
+						} )
+						.on( 'reset_image', function ( form, variation ) {
+							self.showVariationImage( variation );
+						} );
+				}
 			}
 
 		},
