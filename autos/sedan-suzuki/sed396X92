@@ -7,22 +7,20 @@
 	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 
 	<!-- This site is optimized with the Yoast SEO plugin v23.8 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Solicitud de Taller - Grupo Automotríz</title>
-	<link rel="canonical" href="/solicitud-taller/">
+	<title>Sedan archivos - Grupo Automotríz</title>
+	<link rel="canonical" href="/autos/sedan-suzuki/">
 	<meta property="og:locale" content="es_ES">
 	<meta property="og:type" content="article">
-	<meta property="og:title" content="Solicitud de Taller - Grupo Automotríz">
-	<meta property="og:url" content="/solicitud-taller/">
+	<meta property="og:title" content="Sedan archivos - Grupo Automotríz">
+	<meta property="og:url" content="/autos/sedan-suzuki/">
 	<meta property="og:site_name" content="Grupo Automotríz">
-	<meta property="article:modified_time" content="2024-07-30T20:46:17+00:00">
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:label1" content="Tiempo de lectura">
-	<meta name="twitter:data1" content="1 minuto">
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"/solicitud-taller/","url":"/solicitud-taller/","name":"Solicitud de Taller - Grupo Automotríz","isPartOf":{"@id":"/#website"},"datePublished":"2024-03-26T20:01:15+00:00","dateModified":"2024-07-30T20:46:17+00:00","inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["/solicitud-taller/"]}]},{"@type":"WebSite","@id":"/#website","url":"/","name":"Central Motor","description":"Grupo Automotríz","publisher":{"@id":"/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"es"},{"@type":"Organization","@id":"/#organization","name":"AUTONORTE","url":"/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"/#/schema/logo/image/","url":"/wp-content/uploads/2022/10/Hyundai-Logo-1.png","contentUrl":"/wp-content/uploads/2022/10/Hyundai-Logo-1.png","width":3840,"height":2160,"caption":"AUTONORTE"},"image":{"@id":"/#/schema/logo/image/"}}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"/autos/sedan-suzuki/","url":"/autos/sedan-suzuki/","name":"Sedan archivos - Grupo Automotríz","isPartOf":{"@id":"/#website"},"breadcrumb":{"@id":"/autos/sedan-suzuki/#breadcrumb"},"inLanguage":"es"},{"@type":"BreadcrumbList","@id":"/autos/sedan-suzuki/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Suzuki","item":"/autos/suzuki/"},{"@type":"ListItem","position":2,"name":"Sedan"}]},{"@type":"WebSite","@id":"/#website","url":"/","name":"Central Motor","description":"Grupo Automotríz","publisher":{"@id":"/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"es"},{"@type":"Organization","@id":"/#organization","name":"AUTONORTE","url":"/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"/#/schema/logo/image/","url":"/wp-content/uploads/2022/10/Hyundai-Logo-1.png","contentUrl":"/wp-content/uploads/2022/10/Hyundai-Logo-1.png","width":3840,"height":2160,"caption":"AUTONORTE"},"image":{"@id":"/#/schema/logo/image/"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
 <link rel="alternate" type="application/rss+xml" title="Grupo Automotríz &raquo; Feed de los comentarios" href="/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Grupo Automotríz &raquo; Sedan Categoria Nuevos Feed" href="/autos/sedan-suzuki/feed/">
 <script>
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.2"}};
 /*! This file is auto-generated */
@@ -39,6 +37,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 		background: none !important;
 		padding: 0 !important;
 	}</style>
+<link rel="stylesheet" id="wp-block-library-css" href="/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2" media="all">
 <link rel="stylesheet" id="jet-engine-frontend-css" href="/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.5.6" media="all">
 <style id="classic-theme-styles-inline-css">/*! This file is auto-generated */
 .wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}</style>
@@ -73,7 +72,6 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <link rel="stylesheet" id="elementor-pro-css" href="/wp-content/uploads/elementor/css/custom-pro-frontend.min.css?ver=1730955138" media="all">
 <link rel="stylesheet" id="font-awesome-5-all-css" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.25.4" media="all">
 <link rel="stylesheet" id="font-awesome-4-shim-css" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.25.4" media="all">
-<link rel="stylesheet" id="elementor-post-941-css" href="/wp-content/uploads/elementor/css/post-941.css?ver=1730986228" media="all">
 <link rel="stylesheet" id="elementor-post-613-css" href="/wp-content/uploads/elementor/css/post-613.css?ver=1730985728" media="all">
 <link rel="stylesheet" id="elementor-post-759-css" href="/wp-content/uploads/elementor/css/post-759.css?ver=1730955139" media="all">
 <link rel="stylesheet" id="elementor-post-11706-css" href="/wp-content/uploads/elementor/css/post-11706.css?ver=1730955139" media="all">
@@ -82,7 +80,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <link rel="stylesheet" id="elementor-post-4967-css" href="/wp-content/uploads/elementor/css/post-4967.css?ver=1730955139" media="all">
 <link rel="stylesheet" id="elementor-post-2537-css" href="/wp-content/uploads/elementor/css/post-2537.css?ver=1730955139" media="all">
 <link rel="stylesheet" id="elementor-post-2316-css" href="/wp-content/uploads/elementor/css/post-2316.css?ver=1730955139" media="all">
-<link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.6.2" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.6.2" media="all">
 <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 <script src="/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
@@ -341,7 +339,7 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
     backdrop-filter: blur(2px);
 }</style>
 		</head>
-<body class="page-template-default page page-id-941 wp-custom-logo elementor-default elementor-kit-5 elementor-page elementor-page-941">
+<body class="archive tax-cat-autos-nuevos term-sedan-suzuki term-95 wp-custom-logo elementor-default elementor-kit-5">
 
 
 <a class="skip-link screen-reader-text" href="#content">Ir al contenido</a>
@@ -399,7 +397,7 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12027"><a href="/usados-certificados/" class="elementor-item">Usados Certificados</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12546"><a href="/cotizar-repuestos/" class="elementor-item">Cotizar Repuestos</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-941 current_page_item menu-item-12547"><a href="/solicitud-taller/" aria-current="page" class="elementor-item elementor-item-active">Solicitud de Taller</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12547"><a href="/solicitud-taller/" class="elementor-item">Solicitud de Taller</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1202"><a href="/sobre-nosotros/" class="elementor-item">Nosotros</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
@@ -419,7 +417,7 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12027"><a href="/usados-certificados/" class="elementor-item" tabindex="-1">Usados Certificados</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12546"><a href="/cotizar-repuestos/" class="elementor-item" tabindex="-1">Cotizar Repuestos</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-941 current_page_item menu-item-12547"><a href="/solicitud-taller/" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Solicitud de Taller</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12547"><a href="/solicitud-taller/" class="elementor-item" tabindex="-1">Solicitud de Taller</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1202"><a href="/sobre-nosotros/" class="elementor-item" tabindex="-1">Nosotros</a></li>
 </ul>			</nav>
 				</div>
@@ -454,358 +452,18 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 					</div>
 				</div>
 				</div>
-		
-<main id="content" class="site-main post-941 page type-page status-publish hentry">
+		<main id="content" class="site-main">
 
+			<div class="page-header">
+			<h1 class="entry-title">Categoria Nuevos: <span>Sedan</span>
+</h1>		</div>
 	
 	<div class="page-content">
-				<div data-elementor-type="wp-page" data-elementor-id="941" class="elementor elementor-941" data-elementor-post-type="page">
-				<div data-dce-background-color="#FFFFFF00" data-dce-background-overlay-color="#00000000" data-dce-background-image-url="https://centralmotor.fastandstatic.com/wp-content/uploads/2024/03/Enmascarar_grupo_44_1711483651815.webp" class="elementor-element elementor-element-87d2821 e-con-full e-flex e-con e-parent" data-id="87d2821" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-		<div class="elementor-element elementor-element-4442f3a e-flex e-con-boxed e-con e-child" data-id="4442f3a" data-element_type="container">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-9dc8b02 e-con-full e-flex e-con e-child" data-id="9dc8b02" data-element_type="container">
-		<div class="elementor-element elementor-element-c949ad2 e-con-full e-flex e-con e-child" data-id="c949ad2" data-element_type="container">
-		<div class="elementor-element elementor-element-7141821 e-con-full e-flex e-con e-child" data-id="7141821" data-element_type="container">
-		<div class="elementor-element elementor-element-f86f93d e-con-full blocke7 e-flex e-con e-child" data-id="f86f93d" data-element_type="container">
-		<div class="elementor-element elementor-element-e97fdec e-con-full e-flex e-con e-child" data-id="e97fdec" data-element_type="container">
-				<div class="elementor-element elementor-element-2bd7d6c elementor-widget elementor-widget-heading" data-id="2bd7d6c" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">BUCARAMANGA</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-1d8df93 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="1d8df93" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-					<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fas-map-marker-alt" viewbox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">Carrera 27#56-48 Puerta del Sol</span>
-									</li>
-						</ul>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-cbae8fb elementor-widget elementor-widget-heading" data-id="cbae8fb" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">BARRANCABERMEJA</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-e4379b8 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="e4379b8" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-					<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fas-map-marker-alt" viewbox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">Calle 50 #14 - 32 Barrio Colombia</span>
-									</li>
-						</ul>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-012fe46 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="012fe46" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-					<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fas-envelope" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">contacto@centralmotor.com.co</span>
-									</li>
-						</ul>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-c79e2fb elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="c79e2fb" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-					<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fas-phone-alt" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M497.39 361.8l-112-48a24 24 0 0 0-28 6.9l-49.6 60.6A370.66 370.66 0 0 1 130.6 204.11l60.6-49.6a23.94 23.94 0 0 0 6.9-28l-48-112A24.16 24.16 0 0 0 122.6.61l-104 24A24 24 0 0 0 0 48c0 256.5 207.9 464 464 464a24 24 0 0 0 23.4-18.6l24-104a24.29 24.29 0 0 0-14.01-27.6z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">PBX (607) 6313001</span>
-									</li>
-						</ul>
-				</div>
-				</div>
-				</div>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-0be4873 e-con-full e-flex e-con e-child" data-id="0be4873" data-element_type="container">
-		<div data-dce-background-color="#2B665B" class="elementor-element elementor-element-533653d e-con-full e-flex e-con e-child" data-id="533653d" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
-				<div class="elementor-element elementor-element-e962a65 elementor-widget elementor-widget-heading" data-id="e962a65" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Solicitud de citas de taller</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-0d1bcee elementor-widget elementor-widget-heading" data-id="0d1bcee" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Por favor diligencia los datos para solicitar una cita de taller
-</h2>		</div>
-				</div>
-				</div>
-		<div data-dce-background-color="#FFFFFF" class="elementor-element elementor-element-e9f1b63 e-con-full e-flex e-con e-child" data-id="e9f1b63" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-				<div class="elementor-element elementor-element-6c1f8e1 elementor-button-align-end elementor-widget elementor-widget-form" data-id="6c1f8e1" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;40&quot;,&quot;dce_confirm_dialog_enabled&quot;:&quot;no&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;,&quot;label_icon_size&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;field_icon_size&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="form.default">
-				<div class="elementor-widget-container">
-					<form class="elementor-form" method="post" id="agendar_taller" name="agendar_taller">
-			<input type="hidden" name="post_id" value="941">
-			<input type="hidden" name="form_id" value="6c1f8e1">
-			<input type="hidden" name="referer_title" value="Solicitud de Taller - Grupo Automotríz">
-
-							<input type="hidden" name="queried_id" value="941">
-			
-			<div class="elementor-form-fields-wrapper elementor-labels-">
-								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-chat_name elementor-col-40 elementor-field-required">
-												<label for="form-field-chat_name" class="elementor-field-label elementor-screen-only">
-								Nombre completo							</label>
-														<input size="1" type="text" name="form_fields[chat_name]" id="form-field-chat_name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Nombre completo" required="required" aria-required="true">
-											</div>
-								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-chat_email elementor-col-33 elementor-field-required">
-												<label for="form-field-chat_email" class="elementor-field-label elementor-screen-only">
-								Email							</label>
-														<input size="1" type="email" name="form_fields[chat_email]" id="form-field-chat_email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required" aria-required="true">
-											</div>
-								<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-chat_phone elementor-col-25 elementor-field-required">
-												<label for="form-field-chat_phone" class="elementor-field-label elementor-screen-only">
-								Celular							</label>
-								<input size="1" type="tel" name="form_fields[chat_phone]" id="form-field-chat_phone" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Celular" required="required" aria-required="true" pattern="[0-9()#&amp;+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">
-
-						</div>
-								<div class="elementor-field-type-select elementor-field-group elementor-column elementor-field-group-customer_city elementor-col-33 elementor-field-required">
-												<label for="form-field-customer_city" class="elementor-field-label elementor-screen-only">
-								Ciudad del servicio							</label>
-								<div class="elementor-field elementor-select-wrapper remove-before ">
-			<div class="select-caret-down-wrapper">
-				<svg aria-hidden="true" class="e-font-icon-svg e-eicon-caret-down" viewbox="0 0 571.4 571.4" xmlns="http://www.w3.org/2000/svg"><path d="M571 393Q571 407 561 418L311 668Q300 679 286 679T261 668L11 418Q0 407 0 393T11 368 36 357H536Q550 357 561 368T571 393Z"></path></svg>			</div>
-			<select name="form_fields[customer_city]" id="form-field-customer_city" class="elementor-field-textual elementor-size-sm" required="required" aria-required="true">
-									<option value="">Ciudad del servicio </option>
-									<option value="BUCARAMANGA">BUCARAMANGA</option>
-									<option value="BARRANCABERMEJA">BARRANCABERMEJA</option>
-							</select>
-		</div>
-						</div>
-								<div class="elementor-field-type-select elementor-field-group elementor-column elementor-field-group-auto_select elementor-col-33 elementor-field-required">
-												<label for="form-field-auto_select" class="elementor-field-label elementor-screen-only">
-								Marca del auto							</label>
-								<div class="elementor-field elementor-select-wrapper remove-before ">
-			<div class="select-caret-down-wrapper">
-				<svg aria-hidden="true" class="e-font-icon-svg e-eicon-caret-down" viewbox="0 0 571.4 571.4" xmlns="http://www.w3.org/2000/svg"><path d="M571 393Q571 407 561 418L311 668Q300 679 286 679T261 668L11 418Q0 407 0 393T11 368 36 357H536Q550 357 561 368T571 393Z"></path></svg>			</div>
-			<select name="form_fields[auto_select]" id="form-field-auto_select" class="elementor-field-textual elementor-size-sm" required="required" aria-required="true">
-									<option value="">Marca del auto </option>
-									<option value="KIA">KIA</option>
-									<option value="FORD">FORD</option>
-									<option value="CITROËN">CITROËN</option>
-									<option value="SUZUKI">SUZUKI</option>
-									<option value="HYUNDAI">HYUNDAI</option>
-									<option value="USADOS CERTIFICADOS">USADOS CERTIFICADOS</option>
-							</select>
-		</div>
-						</div>
-								<div class="elementor-field-type-select elementor-field-group elementor-column elementor-field-group-motivo_cita_taller elementor-col-33 elementor-field-required">
-												<label for="form-field-motivo_cita_taller" class="elementor-field-label elementor-screen-only">
-								Tipo de Servicio							</label>
-								<div class="elementor-field elementor-select-wrapper remove-before ">
-			<div class="select-caret-down-wrapper">
-				<svg aria-hidden="true" class="e-font-icon-svg e-eicon-caret-down" viewbox="0 0 571.4 571.4" xmlns="http://www.w3.org/2000/svg"><path d="M571 393Q571 407 561 418L311 668Q300 679 286 679T261 668L11 418Q0 407 0 393T11 368 36 357H536Q550 357 561 368T571 393Z"></path></svg>			</div>
-			<select name="form_fields[motivo_cita_taller]" id="form-field-motivo_cita_taller" class="elementor-field-textual elementor-size-sm" required="required" aria-required="true">
-									<option value="">Tipo de servicio </option>
-									<option value="Diagnósticos">Diagnósticos</option>
-									<option value="Mantenimiento">Mantenimiento</option>
-									<option value="Reparación Mecánica">Reparación Mecánica</option>
-									<option value="Latonería y Pintura">Latonería y Pintura</option>
-									<option value="Procesos Aseguradora">Procesos Aseguradora</option>
-									<option value="Garantías">Garantías</option>
-									<option value="Otros">Otros</option>
-							</select>
-		</div>
-						</div>
-								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-placa elementor-col-30 elementor-field-required">
-												<label for="form-field-placa" class="elementor-field-label elementor-screen-only">
-								Placa							</label>
-														<input size="1" type="text" name="form_fields[placa]" id="form-field-placa" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Placa" required="required" aria-required="true">
-											</div>
-								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-chat_message elementor-col-70">
-												<label for="form-field-chat_message" class="elementor-field-label elementor-screen-only">
-								Comentario							</label>
-														<input size="1" type="text" name="form_fields[chat_message]" id="form-field-chat_message" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Comentario">
-											</div>
-								<div class="elementor-field-type-acceptance elementor-field-group elementor-column elementor-field-group-t_yes elementor-col-60 elementor-field-required">
-												<label for="form-field-t_yes" class="elementor-field-label elementor-screen-only">
-								Aceptar términos y condiciones							</label>
-								<div class="elementor-field-subgroup">
-			<span class="elementor-field-option">
-				<input type="checkbox" name="form_fields[t_yes]" id="form-field-t_yes" class="elementor-field elementor-size-sm  elementor-acceptance-field" required="required" aria-required="true" checked>
-				<label for="form-field-t_yes"><a href="https://centralmotor.com.co/terminos-condiciones-proteccion-de-datos/">Aceptar términos y condiciones</a></label>			</span>
-		</div>
-						</div>
-								<div class="elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-motivo_cita_taller elementor-col-100">
-													<input size="1" type="hidden" name="form_fields[motivo_cita_taller]" id="form-field-motivo_cita_taller" class="elementor-field elementor-size-sm  elementor-field-textual" value="Agendar Taller">
-											</div>
-								<div class="elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-from_web_form elementor-col-100">
-													<input size="1" type="hidden" name="form_fields[from_web_form]" id="form-field-from_web_form" class="elementor-field elementor-size-sm  elementor-field-textual" value="true">
-											</div>
-								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-40 e-form__buttons">
-					<button class="elementor-button elementor-size-sm" type="submit">
-						<span class="elementor-button-content-wrapper">
-															<span class="elementor-button-icon">
-									<svg aria-hidden="true" class="e-font-icon-svg e-fas-calendar-check" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M436 160H12c-6.627 0-12-5.373-12-12v-36c0-26.51 21.49-48 48-48h48V12c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v52h128V12c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v52h48c26.51 0 48 21.49 48 48v36c0 6.627-5.373 12-12 12zM12 192h424c6.627 0 12 5.373 12 12v260c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V204c0-6.627 5.373-12 12-12zm333.296 95.947l-28.169-28.398c-4.667-4.705-12.265-4.736-16.97-.068L194.12 364.665l-45.98-46.352c-4.667-4.705-12.266-4.736-16.971-.068l-28.397 28.17c-4.705 4.667-4.736 12.265-.068 16.97l82.601 83.269c4.667 4.705 12.265 4.736 16.97.068l142.953-141.805c4.705-4.667 4.736-12.265.068-16.97z"></path></svg>																	</span>
-																						<span class="elementor-button-text">Agendar Cita</span>
-													</span>
-					</button>
-				</div>
-			</div>
-		</form>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-7a80fda elementor-widget elementor-widget-html" data-id="7a80fda" data-element_type="widget" data-widget_type="html.default">
-				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
-<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-
-<script>
-(function ($) {
-    const formId = '#agendar_taller';
-
-    const form = $(formId);
-    if (!form.length) {
-        console.error("No se encontró formulario con el ID");
-    } else {
-        // Define los números de WhatsApp según la marca del auto
-        const whatsappNumbers = {
-            "KIA": "573103007144",
-            "FORD": "573209627081",
-            "CITROËN": "573173986854",
-            "SUZUKI": "573173986854",
-            "HYUNDAI": "573173986854",
-        };
-
-        // Agrega una función para la validación en tiempo real del campo de teléfono
-        const telefonoInput = form.find('[name="form_fields[Chat_Phone]"]');
-        telefonoInput.on('input', function () {
-            // Remueve cualquier carácter que no sea un número
-            $(this).val($(this).val().replace(/\D/g, ''));
-        });
-
-        form.on('submit', function (e) {
-            e.preventDefault(); // Evita el envío del formulario por defecto
-
-            // Cerrar el popup de Elementor si está abierto
-            const elementorPopup = $('.elementor-popup-modal');
-            if (elementorPopup.length) {
-                elementorPopup.fadeOut();
-            }
-
-            // Obtener la fecha y hora actual en un formato legible para humanos (solo hora y minutos, en la zona horaria de Colombia)
-            const currentDate = new Date();
-            const options = { timeZone: 'America/Bogota', hour12: false, hour: 'numeric', minute: 'numeric', year: 'numeric', month: 'numeric', day: 'numeric' };
-            const formattedDateTime = currentDate.toLocaleString('es-CO', options); // Formatear a la hora de Colombia
-
-            // Obtener si el usuario está en móvil o escritorio
-            const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-            const deviceType = isMobile ? 'Mobile' : 'Escritorio';
-
-            // Captura los datos del formulario
-            const formData = form.serializeArray();
-            const data = {};
-            formData.forEach((input) => {
-                data[input.name] = input.value;
-            });
-
-            // Agregar la hora y fecha formateadas a los datos del formulario
-            data['dateTime'] = formattedDateTime;
-            data['deviceType'] = deviceType;
-
-            // Agregar UTM parameters
-            const urlParams = new URLSearchParams(window.location.search);
-            data['utm_source'] = urlParams.get('utm_source');
-            data['utm_medium'] = urlParams.get('utm_medium');
-            data['utm_campaign'] = urlParams.get('utm_campaign');
-            data['utm_term'] = urlParams.get('utm_term');
-            data['utm_content'] = urlParams.get('utm_content');
-
-            // Obtener la marca del auto seleccionada
-            const selectedBrand = data['form_fields[marca_auto]'];
-            const numeroWhatsApp = whatsappNumbers[selectedBrand] || '573001234567'; // Número predeterminado si no se encuentra la marca
-
-            // Construir el mensaje de WhatsApp
-            const mensajeWhatsApp = `Hola, he completado el formulario con los siguientes datos:
-Nombre Completo: ${data['form_fields[chat_name]']}
-WhatsApp: ${data['form_fields[chat_phone]']}
-Email: ${data['form_fields[chat_email]']}
-Ciudad Seleccionada: ${data['form_fields[customer_city]']}
-Marca del vehículo: ${data['form_fields[marca_auto]']}
-Placa: ${data['form_fields[placa]']}
-Tipo de Servicio: ${data['form_fields[motivo_cita_taller]']}`;
-
-            // Codificar el mensaje
-            const mensajeWhatsAppCodificado = encodeURIComponent(mensajeWhatsApp);
-
-            // Crear el enlace de WhatsApp
-            const enlaceWhatsApp = `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsAppCodificado}`;
-
-            // Muestra la alerta con la información del usuario
-            Swal.fire({
-                title: "¡Tu mensaje fue recibido!",
-                html: `
-                    <div style="text-align: left;">
-                        <p style="margin-bottom: 10px;"><strong>Gracias por contactarnos.<\/strong><\/p>
-                        <ul style="list-style-type: none; padding-left: 0;">
-                            <li><strong>Nombre Completo:<\/strong> ${data['form_fields[chat_name]']}<\/li>
-                            <li><strong>WhatsApp:<\/strong> ${data['form_fields[chat_phone]']}<\/li>
-                            <li><strong>Email:<\/strong> ${data['form_fields[chat_email]']}<\/li>
-                            <li><strong>Ciudad Seleccionada:<\/strong> ${data['form_fields[customer_city]']}<\/li>
-                            <li><strong>Marca del vehículo:<\/strong> ${data['form_fields[marca_auto]']}<\/li>
-                            <li><strong>Placa:<\/strong> ${data['form_fields[placa]']}<\/li>
-                            <li><strong>Tipo de Servicio:<\/strong> ${data['form_fields[motivo_cita_taller]']}<\/li>
-                        <\/ul>
-                    <\/div>
-                `,
-                icon: "success",
-                confirmButtonColor: "#075E55",
-                confirmButtonText: "Enviar a WhatsApp",
-                customClass: {
-                    container: 'swal-container',
-                    title: 'swal-title',
-                    content: 'swal-content',
-                    confirmButton: 'swal-confirm-button',
-                },
-                customContainerClass: 'swal-custom-container',
-                customCSS: {
-                    background: '#fff',
-                    border: '2px solid #ffff',
-                    borderRadius: '8px',
-                    color: '#26528F',
-                    fontFamily: 'Arial, sans-serif',
-                },
-            }).then((result) => {
-                // Abrir WhatsApp en una nueva pestaña
-                window.open(enlaceWhatsApp, '_blank');
-            });
-
-            // Enviar evento a Google Analytics cuando se envía el formulario
-            gtag('event', 'Formulario_enviado', {
-                'event_category': 'Formulario',
-                'event_label': 'Formulario_enviado',
-            });
-
-            // Enviar evento al píxel de Facebook cuando se envía el formulario
-            fbq('track', 'Formulario_enviado', {
-                'event_category': 'Formulario',
-                'event_label': 'Formulario_enviado',
-            });
-        }); // Esta línea cierra el método on('submit')
-    }
-})(jQuery);
-</script>
-		</div>
-				</div>
-				</div>
-				</div>
-				</div>
-					</div>
-				</div>
-				</div>
-				</div>
-		
-		
 			</div>
 
 	
 </main>
-
-			<div data-elementor-type="footer" data-elementor-id="759" class="elementor elementor-759 elementor-location-footer" data-elementor-post-type="elementor_library">
+		<div data-elementor-type="footer" data-elementor-id="759" class="elementor elementor-759 elementor-location-footer" data-elementor-post-type="elementor_library">
 			<div data-dce-background-color="#1D1D1D" class="elementor-element elementor-element-892c0f5 e-flex e-con-boxed e-con e-parent" data-id="892c0f5" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
 					<div class="e-con-inner">
 		<div class="elementor-element elementor-element-2a2f339 e-con-full e-flex e-con e-child" data-id="2a2f339" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -907,7 +565,7 @@ Calle 50 #14 - 32 Barrio Colombia. </h2>		</div>
 				<div class="elementor-element elementor-element-28a1603 elementor-position-top elementor-position-left elementor-vertical-align-middle elementor-widget__width-inherit elementor-widget elementor-widget-image-box" data-id="28a1603" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
 			<div class="elementor-image-box-wrapper">
-<figure class="elementor-image-box-img"><a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI1MzciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D" tabindex="-1"><img width="682" height="682" src="/wp-content/uploads/2024/04/volante.svg" class="attachment-full size-full wp-image-4576" alt=""></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI1MzciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">Cotizar Auto</a></h3></div>
+<figure class="elementor-image-box-img"><a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI1MzciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D" tabindex="-1"><img fetchpriority="high" width="682" height="682" src="/wp-content/uploads/2024/04/volante.svg" class="attachment-full size-full wp-image-4576" alt=""></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI1MzciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">Cotizar Auto</a></h3></div>
 </div>		</div>
 				</div>
 				</div>
@@ -915,7 +573,7 @@ Calle 50 #14 - 32 Barrio Colombia. </h2>		</div>
 				<div class="elementor-element elementor-element-1c29990 elementor-position-top elementor-position-left elementor-vertical-align-middle elementor-widget__width-inherit elementor-widget elementor-widget-image-box" data-id="1c29990" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
 			<div class="elementor-image-box-wrapper">
-<figure class="elementor-image-box-img"><img width="512" height="512" src="/wp-content/uploads/2024/03/user-interface-1bg.png" class="attachment-full size-full wp-image-8158" alt=""></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Citas Taller</h3></div>
+<figure class="elementor-image-box-img"><img loading="lazy" width="512" height="512" src="/wp-content/uploads/2024/03/user-interface-1bg.png" class="attachment-full size-full wp-image-8158" alt=""></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Citas Taller</h3></div>
 </div>		</div>
 				</div>
 				</a>
@@ -923,7 +581,7 @@ Calle 50 #14 - 32 Barrio Colombia. </h2>		</div>
 				<div class="elementor-element elementor-element-34f1f66 elementor-position-top elementor-position-left elementor-vertical-align-middle elementor-widget__width-inherit elementor-widget elementor-widget-image-box" data-id="34f1f66" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
 			<div class="elementor-image-box-wrapper">
-<figure class="elementor-image-box-img"><img width="512" height="512" src="/wp-content/uploads/2024/03/repair-tool.svg" class="attachment-full size-full wp-image-6305" alt=""></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Repuestos</h3></div>
+<figure class="elementor-image-box-img"><img loading="lazy" width="512" height="512" src="/wp-content/uploads/2024/03/repair-tool.svg" class="attachment-full size-full wp-image-6305" alt=""></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Repuestos</h3></div>
 </div>		</div>
 				</div>
 				</a>
@@ -1015,7 +673,7 @@ Calle 50 #14 - 32 Barrio Colombia. </h2>		</div>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12027"><a href="/usados-certificados/" class="elementor-item">Usados Certificados</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12546"><a href="/cotizar-repuestos/" class="elementor-item">Cotizar Repuestos</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-941 current_page_item menu-item-12547"><a href="/solicitud-taller/" aria-current="page" class="elementor-item elementor-item-active">Solicitud de Taller</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12547"><a href="/solicitud-taller/" class="elementor-item">Solicitud de Taller</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1202"><a href="/sobre-nosotros/" class="elementor-item">Nosotros</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
@@ -1032,7 +690,7 @@ Calle 50 #14 - 32 Barrio Colombia. </h2>		</div>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12027"><a href="/usados-certificados/" class="elementor-item" tabindex="-1">Usados Certificados</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12546"><a href="/cotizar-repuestos/" class="elementor-item" tabindex="-1">Cotizar Repuestos</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-941 current_page_item menu-item-12547"><a href="/solicitud-taller/" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Solicitud de Taller</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12547"><a href="/solicitud-taller/" class="elementor-item" tabindex="-1">Solicitud de Taller</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1202"><a href="/sobre-nosotros/" class="elementor-item" tabindex="-1">Nosotros</a></li>
 </ul>			</nav>
 				</div>
@@ -1082,9 +740,8 @@ Calle 50 #14 - 32 Barrio Colombia. </h2>		</div>
 					<form class="elementor-form" method="post" id="cotizar_auto_page" name="cotizar_auto_page">
 			<input type="hidden" name="post_id" value="2537">
 			<input type="hidden" name="form_id" value="2ac1d13">
-			<input type="hidden" name="referer_title" value="Solicitud de Taller - Grupo Automotríz">
+			<input type="hidden" name="referer_title" value="Sedan archivos - Grupo Automotríz">
 
-							<input type="hidden" name="queried_id" value="941">
 			
 			<div class="elementor-form-fields-wrapper elementor-labels-">
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-chat_name elementor-col-100 elementor-sm-100 elementor-field-required">
@@ -1370,7 +1027,7 @@ Calle 50 #14 - 32 Barrio Colombia. </h2>		</div>
 		<div class="elementor-element elementor-element-ad30f84 e-con-full e-flex e-con e-child" data-id="ad30f84" data-element_type="container">
 				<div class="elementor-element elementor-element-a625dc4 elementor-widget elementor-widget-image" data-id="a625dc4" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img width="417" height="417" src="/wp-content/uploads/2024/04/What_logo-entornodev-0092.png" class="attachment-large size-large wp-image-10454" alt="" srcset="/wp-content/uploads/2024/04/What_logo-entornodev-0092.png 417w, /wp-content/uploads/2024/04/What_logo-entornodev-0092-300x300.png 300w, /wp-content/uploads/2024/04/What_logo-entornodev-0092-150x150.png 150w" sizes="(max-width: 417px) 100vw, 417px">													</div>
+													<img loading="lazy" width="417" height="417" src="/wp-content/uploads/2024/04/What_logo-entornodev-0092.png" class="attachment-large size-large wp-image-10454" alt="" srcset="/wp-content/uploads/2024/04/What_logo-entornodev-0092.png 417w, /wp-content/uploads/2024/04/What_logo-entornodev-0092-300x300.png 300w, /wp-content/uploads/2024/04/What_logo-entornodev-0092-150x150.png 150w" sizes="(max-width: 417px) 100vw, 417px">													</div>
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-0d43de0 e-con-full e-flex e-con e-child" data-id="0d43de0" data-element_type="container">
@@ -1699,9 +1356,8 @@ Calle 50 #14 - 32 Barrio Colombia. </h2>		</div>
 					<form class="elementor-form" method="post" id="cotizar_auto_page" name="cotizar_auto_page">
 			<input type="hidden" name="post_id" value="4967">
 			<input type="hidden" name="form_id" value="a991368">
-			<input type="hidden" name="referer_title" value="Solicitud de Taller - Grupo Automotríz">
+			<input type="hidden" name="referer_title" value="Sedan archivos - Grupo Automotríz">
 
-							<input type="hidden" name="queried_id" value="941">
 			
 			<div class="elementor-form-fields-wrapper elementor-labels-">
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-chat_name elementor-col-100 elementor-sm-100 elementor-field-required">
@@ -1784,8 +1440,8 @@ Calle 50 #14 - 32 Barrio Colombia. </h2>		</div>
 </label>			</span>
 		</div>
 						</div>
-								<div class="elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-auto_name elementor-col-100">
-													<input size="1" type="hidden" name="form_fields[auto_name]" id="form-field-auto_name" class="elementor-field elementor-size-xs  elementor-field-textual" value="Solicitud de Taller">
+								<div class="elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-auto_name elementor-col-100 elementor-sm-100">
+													<input size="1" type="hidden" name="form_fields[auto_name]" id="form-field-auto_name" class="elementor-field elementor-size-xs  elementor-field-textual" value="Sedan">
 											</div>
 								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
 					<button class="elementor-button elementor-size-sm" type="submit">
@@ -1992,7 +1648,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script id="elementor-pro-frontend-js-before">var ElementorProFrontendConfig = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"8c9bde01e1","urls":{"assets":"\/wp-content\/plugins\/pro-elements\/assets\/","rest":"\/wp-json\/"},"settings":{"lazy_load_background_images":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"es_ES","app_id":""},"lottie":{"defaultAnimationUrl":"\/wp-content\/plugins\/pro-elements\/modules\/lottie\/assets\/animations\/default.json"}};</script>
 <script src="/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=3.24.2" id="elementor-pro-frontend-js"></script>
 <script src="/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
-<script id="elementor-frontend-js-before">var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir vídeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la última diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Móvil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Móvil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portátil","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":true}},"hasCustomBreakpoints":true},"version":"3.25.4","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"e_nested_atomic_repeaters":true,"e_optimized_control_loading":true,"e_onboarding":true,"e_css_smooth_scroll":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"home_screen":true,"landing-pages":true,"nested-elements":true,"editor_v2":true,"e_element_cache":true,"link-in-bio":true,"floating-buttons":true,"display-conditions":true,"form-submissions":true,"mega-menu":true},"urls":{"assets":"\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"\/wp-admin\/admin-ajax.php","uploadUrl":"\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"26fc05f162"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[],"dynamicooo":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop","viewport_widescreen"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":941,"title":"Solicitud%20de%20Taller%20-%20Grupo%20Automotr%C3%ADz","excerpt":"","featuredImage":false}};</script>
+<script id="elementor-frontend-js-before">var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir vídeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la última diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Móvil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Móvil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portátil","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":true}},"hasCustomBreakpoints":true},"version":"3.25.4","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"e_nested_atomic_repeaters":true,"e_optimized_control_loading":true,"e_onboarding":true,"e_css_smooth_scroll":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"home_screen":true,"landing-pages":true,"nested-elements":true,"editor_v2":true,"e_element_cache":true,"link-in-bio":true,"floating-buttons":true,"display-conditions":true,"form-submissions":true,"mega-menu":true},"urls":{"assets":"\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"\/wp-admin\/admin-ajax.php","uploadUrl":"\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"26fc05f162"},"swiperClass":"swiper","settings":{"editorPreferences":[],"dynamicooo":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop","viewport_widescreen"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":0,"title":"Sedan archivos - Grupo Automotríz","excerpt":""}};</script>
 <script src="/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.25.4" id="elementor-frontend-js"></script>
 <script src="/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=3.24.2" id="pro-elements-handlers-js"></script>
 
